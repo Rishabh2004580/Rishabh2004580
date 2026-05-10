@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 - Python
 - FastAPI
@@ -20,20 +20,20 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📌 Resume Analyzer
+## 📌 Resume Analyzer
 AI-powered resume analysis system.
 
-### 📌 YouTube Downloader
+## 📌 YouTube Downloader
 Download YouTube videos using Python.
 
-### 📌 Student Management System
-CRUD-based PHP project with database.
+## 📌 Student Management System
+CRUD-based PHP project.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh2004580&show_icons=true&theme=tokyonight)
 
@@ -41,6 +41,6 @@ CRUD-based PHP project with database.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - GitHub: https://github.com/Rishabh2004580
